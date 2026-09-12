@@ -74,9 +74,9 @@ The analysis generated the following key results:
 | KPI | Result |
 |---|---:|
 | 🧾 **Total Orders** | **21,350** |
-| 💰 **Total Revenue** | **$817,860.05** |
+| 💰 **Total Revenue** | **₹817,860.05** |
 | 🍕 **Average Pizzas Ordered Per Day** | **138** |
-| 💵 **Highest Pizza Price** | **The Greek Pizza — $35.95** |
+| 💵 **Highest Pizza Price** | **The Greek Pizza — ₹35.95** |
 | 📏 **Most Common Pizza Size** | **Large (L)** |
 | 🍕 **Total Pizzas Ordered** | **49,574** |
 
@@ -176,13 +176,13 @@ The highest number of orders occurs at **12:00**, with **2,520 orders**.
 
 | Rank | Pizza Type | Revenue |
 |---:|---|---:|
-| 🥇 1 | The Thai Chicken Pizza | **$43,434.25** |
-| 🥈 2 | The Barbecue Chicken Pizza | **$42,768.00** |
-| 🥉 3 | The California Chicken Pizza | **$41,409.50** |
+| 🥇 1 | The Thai Chicken Pizza | **₹43,434.25** |
+| 🥈 2 | The Barbecue Chicken Pizza | **₹42,768.00** |
+| 🥉 3 | The California Chicken Pizza | **₹41,409.50** |
 
 ### 💡 Insight
 
-**The Thai Chicken Pizza** is the highest revenue-generating pizza with **$43,434.25** in revenue.
+**The Thai Chicken Pizza** is the highest revenue-generating pizza with **₹43,434.25** in revenue.
 
 ---
 
@@ -217,7 +217,7 @@ The project also analyzes **cumulative revenue generated over time** using SQL w
 
 The cumulative revenue starts from:
 
-**January 1, 2015 → $2,713.80**
+**January 1, 2015 → ₹2,713.80**
 
 and increases progressively as daily revenue is added.
 
@@ -233,33 +233,33 @@ The project uses **RANK() with PARTITION BY** to identify the top revenue-genera
 
 | Pizza Type | Revenue |
 |---|---:|
-| The Thai Chicken Pizza | **$43,434.25** |
-| The Barbecue Chicken Pizza | **$42,768.00** |
-| The California Chicken Pizza | **$41,409.50** |
+| The Thai Chicken Pizza | **₹43,434.25** |
+| The Barbecue Chicken Pizza | **₹42,768.00** |
+| The California Chicken Pizza | **₹41,409.50** |
 
 ### 🍕 Classic
 
 | Pizza Type | Revenue |
 |---|---:|
-| The Classic Deluxe Pizza | **$38,180.50** |
-| The Hawaiian Pizza | **$32,273.25** |
-| The Pepperoni Pizza | **$30,161.75** |
+| The Classic Deluxe Pizza | **₹38,180.50** |
+| The Hawaiian Pizza | **₹32,273.25** |
+| The Pepperoni Pizza | **₹30,161.75** |
 
 ### 🌶️ Supreme
 
 | Pizza Type | Revenue |
 |---|---:|
-| The Spicy Italian Pizza | **$34,831.25** |
-| The Italian Supreme Pizza | **$33,476.75** |
-| The Sicilian Pizza | **$30,940.50** |
+| The Spicy Italian Pizza | **₹34,831.25** |
+| The Italian Supreme Pizza | **₹33,476.75** |
+| The Sicilian Pizza | **₹30,940.50** |
 
 ### 🥦 Veggie
 
 | Pizza Type | Revenue |
 |---|---:|
-| The Four Cheese Pizza | **$32,265.70** |
-| The Mexicana Pizza | **$26,780.75** |
-| The Five Cheese Pizza | **$26,066.50** |
+| The Four Cheese Pizza | **₹32,265.70** |
+| The Mexicana Pizza | **₹26,780.75** |
+| The Five Cheese Pizza | **₹26,066.50** |
 
 ---
 
@@ -311,13 +311,13 @@ The project uses **RANK() with PARTITION BY** to identify the top revenue-genera
 
 # 💡 Key Business Insights
 
-- 💰 The business generated **$817,860.05** in total revenue.
+- 💰 The business generated **₹817,860.05** in total revenue.
 - 🧾 A total of **21,350 orders** were placed.
 - 🍕 **Large (L)** is the most popular pizza size.
 - 🏆 **The Classic Deluxe Pizza** has the highest order quantity at **2,453**.
 - 🍗 The **Classic** category has the highest quantity ordered at **14,888**.
 - ⏰ **12:00** has the highest order volume with **2,520 orders**.
-- 💵 **The Greek Pizza** is the highest-priced pizza at **$35.95**.
+- 💵 **The Greek Pizza** is the highest-priced pizza at **₹35.95**.
 - 🥇 **The Thai Chicken Pizza** generates the highest revenue among individual pizza types.
 - 📊 **Classic** contributes the highest category-level revenue share at **26.91%**.
 - 📅 The average daily pizza order quantity is **138 pizzas**.
